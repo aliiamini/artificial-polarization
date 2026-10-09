@@ -1,0 +1,28 @@
+# secrets
+.env
+*.key
+
+# survey data (licensed; download from the original sources)
+data/raw/
+*.sav
+*.dta
+
+# model weights and large outputs
+models/
+*.safetensors
+*.bin
+*.pt
+hpc_results*/
+
+# drafts and other projects
+*.docx
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# system
+.DS_Store
+Thumbs.db

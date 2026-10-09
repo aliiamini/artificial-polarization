@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Large language models promote artificial polarization by underpredicting middle survey responses: replication materials"
+authors:
+  - family-names: Amini
+    given-names: Ali
+    affiliation: "American University"
+repository-code: "https://github.com/aliiamini/artificial-polarization"
+license: MIT
